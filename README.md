@@ -1,1 +1,1 @@
-# Cloud-Image-Classification
+# Cloud Image Classification by CNN
