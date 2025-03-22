@@ -9,7 +9,7 @@ This repository contains a deep learning model for classifying cloud images usin
 - **Data Augmentation**: Enhances dataset variability to improve model robustness.
 - **Model Architecture**: Implements a convolutional neural network (CNN) to predict cloud categories.
 - **Training & Evaluation**
-- 
+  
 ## ❄️Model Architecture
 The model consists of:
 - **Feature Extractor**: Uses two convolutional layers with ELU activation and max pooling.
